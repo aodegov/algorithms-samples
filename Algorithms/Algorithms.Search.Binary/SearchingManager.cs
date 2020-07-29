@@ -2,7 +2,7 @@
 
 namespace Algorithms.Searching
 {
-    public class Class1
+    public class SearchingManager
     {
     }
 }

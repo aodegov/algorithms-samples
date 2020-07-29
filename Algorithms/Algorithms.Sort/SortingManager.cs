@@ -2,7 +2,7 @@
 
 namespace Algorithms.Sorting
 {
-    public class Class1
+    public class SortingManager
     {
     }
 }
